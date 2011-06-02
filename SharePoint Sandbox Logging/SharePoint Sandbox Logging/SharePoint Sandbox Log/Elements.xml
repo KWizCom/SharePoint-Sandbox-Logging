@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!-- Do not change the value of the Name attribute below. If it does not match the folder name of the List Definition project item, an error will occur when the project is run. -->
+	<!-- 
+		SecurityBits="14" -
+			Means users can read all items but cannot edit any items.
+			This is a log list, no need for edit permission.
+		Hidden="TRUE" -
+			A list of this template will be created by the feature only.
+		AllowEveryoneViewItems="TRUE" -
+			Allows all users to view items, similar to other master pages/styles/assets libraries.
+	-->
+    <ListTemplate
+        Name="SharePoint Sandbox Log"
+        Type="76500"
+        BaseType="0"
+        OnQuickLaunch="FALSE"
+        SecurityBits="14"
+        Sequence="410"
+        DisplayName="SharePoint Sandbox Log"
+        Description="This list teimplate is used for the SharePoint Sandbox Logging feature."
+		Hidden="TRUE"
+		RootWebOnly="TRUE"
+		NoCrawl="TRUE"
+		AllowEveryoneViewItems="TRUE"
+        Image="/_layouts/images/itgen.png"/>
+</Elements>

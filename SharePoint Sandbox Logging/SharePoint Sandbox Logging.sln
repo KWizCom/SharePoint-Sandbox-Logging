@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint Sandbox Logging", "SharePoint Sandbox Logging\SharePoint Sandbox Logging.csproj", "{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Logger Solution", "Sample Logger Solution\Sample Logger Solution.csproj", "{35221A36-8D7C-4173-80C0-7A4B432B1B37}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs01
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SharePoint\u0020Sandbox\u0020Logging\\SharePoint\u0020Sandbox\u0020Logging.csproj
+		SccProjectName1 = SharePoint\u0020Sandbox\u0020Logging
+		SccLocalPath1 = SharePoint\u0020Sandbox\u0020Logging
+		SccProjectUniqueName2 = Sample\u0020Logger\u0020Solution\\Sample\u0020Logger\u0020Solution.csproj
+		SccProjectName2 = Sample\u0020Logger\u0020Solution
+		SccLocalPath2 = Sample\u0020Logger\u0020Solution
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F059A05C-FD5D-4A5C-A6BD-D37BEB4A462D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{35221A36-8D7C-4173-80C0-7A4B432B1B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35221A36-8D7C-4173-80C0-7A4B432B1B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35221A36-8D7C-4173-80C0-7A4B432B1B37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{35221A36-8D7C-4173-80C0-7A4B432B1B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35221A36-8D7C-4173-80C0-7A4B432B1B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35221A36-8D7C-4173-80C0-7A4B432B1B37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
