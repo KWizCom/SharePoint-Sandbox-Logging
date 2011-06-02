@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b9968e5f-4d34-4fbd-948f-a9548c4c63b5" solutionId="b9968e5f-4d34-4fbd-948f-a9548c4c63b5" resetWebServer="false" name="SharePoint Sandbox Logging v1.1.00" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7c0e3ad5-e51e-4a79-ad6c-d1262e41487f" />
+  </features>
+</package>

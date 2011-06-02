@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="SharePoint Sandbox Log"
+                OnQuickLaunch="FALSE"
+                TemplateType="76500"
+                Url="Lists/SharePoint Sandbox Log"
+                Description="SharePoint Sandbox Log list is used for diagnostic of problems in KWizCom products within this site collection. Once you have identified and resolved the issue, it is safe to delete this list.">
+  </ListInstance>
+</Elements>

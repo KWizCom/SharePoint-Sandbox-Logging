@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="Logger WebPart Sample" List="113" Url="_catalogs/wp">
+    <File Path="Logger WebPart Sample\Logger WebPart Sample.webpart" Url="Logger WebPart Sample.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Codeplex" />
+    </File>
+  </Module>
+</Elements>

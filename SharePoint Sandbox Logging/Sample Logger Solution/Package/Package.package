@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="91577f5b-522e-4b41-ab4c-abdfea221773" solutionId="91577f5b-522e-4b41-ab4c-abdfea221773" resetWebServer="false" name="Sample Logger Solution v1.1.00" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="codeplex.spsl.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\SharePoint Sandbox Logging\SharePoint Sandbox Logging.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="40b3fd1e-3601-42f4-89ec-1ce1121a2498" />
+  </features>
+</package>
