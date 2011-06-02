@@ -18,8 +18,6 @@ namespace codeplex.spsl
 		public const string C_LogList_Field_Type_Error = "Error";
 		public const string C_LogList_Field_Type_Warning = "Warning";
 		public const string C_LogList_Field_Type_Info = "Info";
-
-		public const string C_ShowUserErrorMessage = "An error has occured and was sent to KWizCom logging feature. Please activate the KWizCom Logging site collection feature to view the error details.";
 		#endregion
 
 		SPSite _site = null;
